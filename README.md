@@ -1,2 +1,3 @@
 # Multipoint_Sampler
-Code for multipoint samplers
+Arduino code for prototype multipoint sampler
+Python code for multipoint samplers
